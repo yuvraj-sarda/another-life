@@ -32,9 +32,9 @@ const Games = () => {
       <div className="max-w-4xl mx-auto">
         {/* Header */}
         <div className="text-center my-8">
-          <h1 className="text-3xl font-bold mb-4">🎮 Games</h1>
+          <h1 className="text-3xl font-bold mb-4">🎮 Experience Another Life</h1>
           <p className="text-muted-foreground text-lg">
-            Learn through fun, interactive games!
+            Walk in someone else's shoes and explore different life paths
           </p>
         </div>
 
