@@ -7,8 +7,6 @@ import Layout from "./components/Layout";
 import Index from "./pages/Index";
 import Games from "./pages/Games";
 import Game from "./pages/Game";
-import Courses from "./pages/Courses";
-import Home from "./pages/Home";
 import Profile from "./pages/Profile";
 import NotFound from "./pages/NotFound";
 
@@ -25,8 +23,6 @@ const App = () => (
             <Route path="/" element={<Games />} />
             <Route path="/games" element={<Games />} />
             <Route path="/games/:gameId" element={<Game />} />
-            <Route path="/courses" element={<Courses />} />
-            <Route path="/home" element={<Home />} />
             <Route path="/profile" element={<Profile />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
