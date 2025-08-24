@@ -2,7 +2,7 @@
 
 Ever wondered what it's really like to walk in someone else's shoes? AnotherLife lets you experience different lives, circumstances, and challenges through interactive decision-making games. 
 
-**🎮 [Try it now at experience-another-life.vercel.app](https://experience-another-life.vercel.app)**
+**🎮 Try it now at [experience-another-life.vercel.app](https://experience-another-life.vercel.app)**
 
 Considering a new career path? Curious about a different lifestyle? Play through authentic life experiences and gain deeper insight into the realities, challenges, and rewards of living another life.
 
@@ -53,8 +53,6 @@ src/
 ```bash
 npm install && npm run dev
 ```
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed development setup and architecture.
 
 ## Future Vision
 
